@@ -25,9 +25,9 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- Sacrifice, sport, mutuality and negotiations of modernity
+- Sacrifice, sport, street art, mutuality and negotiations of modernity
 - Experimental methods
- 
+
 
 education:
   courses:
