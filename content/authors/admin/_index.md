@@ -19,7 +19,7 @@ organizations:
   url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher at the London School of Economics and Political Science (LSE). My research explores XXXX.
+bio: I am a researcher at the London School of Economics and Political Science (LSE). My research explores XXX.
 
 #news-awards: 
 #- Test
@@ -83,5 +83,5 @@ email: ""
 #- Visitors
 
 ---
-I am a researcher at the London School of Economics and Political Science (LSE). 
+I am a researcher at the London School of Economics and Political Science (LSE). My research explores XXX.
 
