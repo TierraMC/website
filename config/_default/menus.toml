@@ -9,39 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Job Market Paper"
-  url = "#JMP"
+  name = "Research Interests"
+  url = "#Research Interests"
   weight = 20
   
 [[main]]
-  name = "Working papers"
-  url = "#WP"
+  name = "Selected Awards"
+  url = "#awards"
   weight = 30
 
 [[main]]
-    name = "Work In Progress"
-    url = "#WIP"
-    weight = 40
-
-[[main]]
-  name = "Selected Awards"
-  url = "#awards"
-  weight = 60
-
-[[main]]
-    name = "Teaching"
-    url = "#teaching"
-    weight = 50
-
-[[main]]
-  name = "Useful Codes"
-  url = "#codes"
-  weight = 70
-  
-[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

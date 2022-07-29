@@ -14,16 +14,10 @@ title = "Selected Awards"
 weight = 130
 
 +++
-- QCGBF Best Young Economist Prize Runner-up (2022) – (1000 pounds).
-- LSE Department of Economics - Highly Commended Teaching Award (2022) – Amount undisclosed.
-- The European Finance Association Best Paper Prize in Responsible Finance Award (2021) - 3000 euros.
-- LSE Teaching Award - Nominated by students for both "Exceptional Teaching in an Unprecedented Year"and "Excellent Feedback and Communication" (2021).
-- LSE Department of Economics - Excellence in Teaching Award (2021) – Amount undisclosed.
-- EAERE - Young Scholar Grant (2021) – 1500 euros.
-- LSE Department of Economics - Excellence in Teaching Award (2020) – Amount undisclosed.
-- Grantham Research Institute on Climate Change and the Environment - LSE PhD Scholarship (2019-2023).
-- PSL Research – University of Paris Dauphine Best MRes Economics Thesis (2017).
-- PSL Research – University of Paris Dauphine MRes Economics Best Overall Performance (2017).
-- Moroccan Ministry of Higher Education & Scientific Research Graduates Honors Scholarship (2011-2014).
-- Institut Mines – Télécom Graduates Honors Scholarship (for the academic year of 2010-2011).
+- London School of Economics 2019 Bloch and Parry Award for Best MSc Dissertation (2019).
+- MTSU 2017 Young Alumni Achievement Award, Received for outstanding achievement in career, public service and volunteering from Middle Tennessee State University (2017). 
+- John A. Lee Memorial Scholarship, American Graduate School in Paris, competitive scholarship received annually (2009 – 2012).
+- Policy Debate Awards, Multiple awards won at state and regional policy debate tournaments, including 1st place at Vanderbilt University (2002); a list of tournaments and awards is available upon request (2001 – 2003).
+- Michael Martinelli Honors Scholarship, Awarded for high academic achievement at Middle Tennessee State University Honors College (2001).
+- Governor’s School for the Sciences Scholar, Summer science intensive at the University of Tennessee; selection based on academic achievement and national test scores (1999).
 

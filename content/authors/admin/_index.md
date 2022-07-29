@@ -60,9 +60,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.fr/citations?user=0oTwj2wAAAAJ&hl=fr
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.fr/citations?user=0oTwj2wAAAAJ&hl=fr
 - icon: github
   icon_pack: fab
   link: https://github.com/TierraMc
