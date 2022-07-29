@@ -32,13 +32,13 @@ interests:
 education:
   courses:
   - course: MRes/PhD in Social Anthropology
-    institution:  LSE 
+    institution:  London School of Economics 
     year: 2024  
   - course: MSc. in Social Anthropology
-    institution:  LSE 
+    institution:  London School of Economics 
     year: 2019  
   - course: MRes in Economics
-    institution:  PSL Research 
+    institution:  PSL Research -- Paris Dauphine
     year: 2014  
   - course: MSc. in International Realtions
     institution: American Graduate School
