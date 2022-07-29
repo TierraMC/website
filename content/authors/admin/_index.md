@@ -25,23 +25,22 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- XX
-- XX
-- XX.
+- Sacrifice, sport, mutuality and negotiations of modernity
+- Experimental methods.
  
 
 education:
   courses:
-  - course: PhD in Social Anthropology
+  - course: MRes/PhD in Social Anthropology
     institution:  LSE 
     year: 2024  
-  - course: MSc. and MRes in Social Anthropology
+  - course: MSc. in Social Anthropology
     institution:  LSE 
     year: 2019  
   - course: MRes in Economics
     institution:  PSL Research 
     year: 2014  
-  - course: MSc. in International Realtion
+  - course: MSc. in International Realtions
     institution: American Graduate School
     year: 2012
   - course: BSc. in  Philosophy
@@ -83,5 +82,6 @@ email: ""
 #- Visitors
 
 ---
-I am a researcher at the London School of Economics and Political Science (LSE). My research explores XXX.
+I am a researcher at the London School of Economics and Political Science (LSE). 
 
+My research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
