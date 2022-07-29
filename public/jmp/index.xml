@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job Market Paper | Ghassane Benmir</title>
+    <link>/jmp/</link>
+      <atom:link href="/jmp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Job Market Paper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Job Market Paper</title>
+      <link>/jmp/</link>
+    </image>
+    
+    <item>
+      <title>Job Market Paper</title>
+      <link>/jmp/job-market_paper/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/jmp/job-market_paper/</guid>
+      <description>&lt;p&gt;Supplementary notes and code can be found here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
