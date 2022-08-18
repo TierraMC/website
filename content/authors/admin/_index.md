@@ -45,7 +45,7 @@ education:
     institution: American Graduate School in Paris
     year: 2012
   - course: BSc. in  Philosophy
-    institution: Middle Tennessee State University (MTSU)
+    institution: Middle Tennessee State University
     year: 2003
 
 
