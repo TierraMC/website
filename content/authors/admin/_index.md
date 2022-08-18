@@ -25,23 +25,24 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- Sacrifice, sport, street art, mutuality and negotiations of modernity
-- Experimental methods
+- Animal sacrifice, kinship, gender, and negotiations of modernity
+- Performance; religion in practice; mutuality, serving, and hierarchy
+- Practice-led research; boundaries/relations between `ethnographic' fieldwork and theory; experimental methods; the quantitative-qualitative research methods divide construct
 
 
 education:
   courses:
-  - course: MRes/PhD in Social Anthropology
-    institution:  London School of Economics 
+  - course: MRes/PhD in (Social) Anthropology
+    institution:  London School of Economics and Political Science
     year: 2024  
   - course: MSc. in Social Anthropology
-    institution:  London School of Economics 
+    institution:  London School of Economics and Political Science 
     year: 2019  
   - course: MRes in Economics
-    institution:  PSL Research -- Paris Dauphine
+    institution:  PSL Research University -- Paris Dauphine
     year: 2014  
-  - course: MSc. in International Realtions
-    institution: American Graduate School
+  - course: MSc. in International Relations and Diplomacy
+    institution: American Graduate School in Paris
     year: 2012
   - course: BSc. in  Philosophy
     institution: Middle Tennessee State University (MTSU)
