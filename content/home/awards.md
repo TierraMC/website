@@ -18,7 +18,7 @@ weight = 130
 - London Arts and Humanities Partnership (LAHP) Studentship Award, Arts and Humanities Research Council (AHRC) of UK Research and Innovation (UKRI) (2020-2024).
 - The LSE Bloch and Parry Award for Best MSc Dissertation (2019).
 - The MTSU Young Alumni Achievement Award, received for outstanding achievement in career, public service and volunteering from Middle Tennessee State University (2017). 
-- John A. Lee Memorial Scholarship, American Graduate School in Paris, competitive scholarship received annually (2009 – 2012).
-- U.S. Policy Debate Awards won at state and regional policy debate tournaments, including 1st place at Vanderbilt University (2001 – 2003).
+- The John A. Lee Memorial Scholarship, American Graduate School in Paris, competitive scholarship received annually (2009 – 2012).
+- U.S. Policy Debate Awards - multiple awards won at state and regional policy debate tournaments, including 1st place at Vanderbilt University (2001 – 2003).
 - Michael Martinelli Honors Scholarship for high academic achievement at MTSU Honors College (2001).
 
