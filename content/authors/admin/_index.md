@@ -35,16 +35,16 @@ education:
   - course: MRes/PhD in (Social) Anthropology
     institution:  London School of Economics and Political Science
     year: 2024  
-  - course: MSc. in Social Anthropology
+  - course: MSc in Social Anthropology
     institution:  London School of Economics and Political Science 
     year: 2019  
   - course: MRes in Economics
     institution:  PSL Research University -- Paris Dauphine
     year: 2014  
-  - course: MSc. in International Relations
+  - course: MSc in International Relations
     institution: American Graduate School in Paris
     year: 2012
-  - course: BSc. in  Philosophy
+  - course: BSc in  Philosophy
     institution: Middle Tennessee State University
     year: 2003
 
