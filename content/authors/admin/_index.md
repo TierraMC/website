@@ -25,18 +25,18 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- Animal sacrifice, kinship, gender, & negotiations of modernity
-- Conceptions of nature; religion in practice; mutuality, serving, & hierarchy, performance and publics
+- Animal sacrifice, kinship, gender & negotiations of modernity
+- Conceptions of nature; religion in practice; mutuality, serving & hierarchy, performance and publics
 - Practice-led research; reflexive methods; boundaries & relations between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
 
 
 education:
   courses:
   - course: MRes/PhD in (Social) Anthropology
-    institution:  London School of Economics and Political Science
+    institution:  London School of Economics
     year: 2024  
   - course: MSc in Social Anthropology
-    institution:  London School of Economics and Political Science 
+    institution:  London School of Economics 
     year: 2019  
   - course: MRes in Economics
     institution:  PSL Research University -- Paris Dauphine
