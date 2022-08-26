@@ -27,7 +27,7 @@ bio: I am a researcher at the London School of Economics and Political Science (
 interests:
 - Animal sacrifice, kinship, gender & negotiations of modernity
 - Conceptions of nature; religion in practice; mutuality, serving & hierarchy, performance & publics
-- Practice-led research; reflexive methods; boundaries & relations between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
+- Practice-led research; reflexive methods; boundaries between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
 
 
 education:
