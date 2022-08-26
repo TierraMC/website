@@ -25,8 +25,8 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- Animal sacrifice, kinship, gender & negotiations of modernity
-- Conceptions of nature; religion in practice; mutuality, serving & hierarchy, performance & publics
+- Animal sacrifice, kinship, gender & negotiations of modernity; performance & publics
+- Conceptions of nature; religion in practice; mutuality, serving & hierarchy
 - Practice-led research; reflexive methods; boundaries between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
 
 
