@@ -19,7 +19,7 @@ organizations:
   url: "https://www.lse.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher at the London School of Economics and Political Science (LSE). My research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
+bio: I am a researcher at the London School of Economics and Political Science (LSE). My research examines the enduring political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
 
 #news-awards: 
 #- Test
