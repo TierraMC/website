@@ -40,10 +40,10 @@ education:
   - course: MRes in Economics
     institution:  PSL Research University -- Paris Dauphine
     year: 2014  
-  - course: MSc in International Relations
+  - course: MA in International Relations
     institution: American Graduate School in Paris
     year: 2012
-  - course: BSc in  Philosophy
+  - course: BA in  Philosophy
     institution: Middle Tennessee State University
     year: 2003
 
