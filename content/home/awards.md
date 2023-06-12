@@ -14,6 +14,10 @@ title = "Selected Awards"
 weight = 130
 
 +++
+- LSE Highly Commended Class Teaching Award Received for academic teaching conducted during the
+2022-2023 academic year, London School of Economics.
+- London Arts and Humanities Partnership (LAHP) Research Support Award Received funding award
+for innovative methods training and research (2022-2023).
 - London Arts and Humanities Partnership (LAHP) Language Fund Awards (2021 & 2022).
 - London Arts and Humanities Partnership (LAHP) Studentship Award, Arts and Humanities Research Council (AHRC) of UK Research and Innovation (UKRI) (2020-2024).
 - The LSE Bloch and Parry Award for Best MSc Dissertation (2019).
