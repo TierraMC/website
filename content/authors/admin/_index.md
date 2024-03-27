@@ -25,15 +25,15 @@ bio: I am a researcher at the London School of Economics and Political Science (
 #- Test
 
 interests:
-- Animal sacrifice; mutuality, serving & hierarchy;  conceptions of nature; religion in practice; kinship; the (enduring) political economy of modernity; performance & publics
-- Practice-led research; reflexive approaches; relations between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
+- Animal sacrifice; mutuality, serving & hierarchy;  conceptions of nature; religion in practice; the (enduring) political economy of modernity; performance & publics
+- Practice-led research; relations between `ethnographic' fieldwork & theory; the quantitative-qualitative research methods divide construct
 
 
 education:
   courses:
   - course: MRes/PhD in (Social) Anthropology
     institution:  London School of Economics
-    year: 2024  
+    year: exp 2024
   - course: MSc in Social Anthropology
     institution:  London School of Economics 
     year: 2019  
