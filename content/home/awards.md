@@ -15,7 +15,7 @@ weight = 130
 
 +++
 - Recipient of the Rosemary and Raymond Firth Award (2024-2025), Department of Anthropology, London School of Economics. 
-- Nomination for the LSESU Teaching Award for Outstanding Teaching during the 2023-2024 academic year, London School of Economics.
+- Nomination for Outstanding Teaching Award during the 2023-2024 academic year, LSESU, London School of Economics.
 - Award in recognition of providing exceptional pastoral care, 2023-2024, London School of Economics
 - Outstanding Teaching Award for Both Courses Taught, 2023-2024, IE University.
 - LSE Highly Commended Class Teaching Award Received for academic teaching conducted during the
