@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = 2022-07-25
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -17,4 +17,11 @@ weight = 120
 
 ### London School of Economics 
 ## Postgraduate Teaching Assistant
-- ANXX (XX): Michaelmas 2021, 2022.
+- AN283 (Anthropology, Art, and Poetics): Winter 2024.
+- AN100 (Being Human: Introduction to Social Anthroplogy): Winter 2023.
+- IR115 (Globalisation and Culture): Summer School 2023.
+
+### IE University 
+## Lecturer
+- Anthropological Approaches to Contemporary Worlds: Spring 2024. Teaching Evaluation (4.78/5)
+- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation (4.64/5)
