@@ -14,6 +14,7 @@ title = "Selected Awards"
 weight = 130
 
 +++
+- Nominated for the LSE Teaching Award for Outstanding Teaching during the 2023-2024 academic year, London School of Economics.
 - LSE Highly Commended Class Teaching Award Received for academic teaching conducted during the
 2022-2023 academic year, London School of Economics.
 - London Arts and Humanities Partnership (LAHP) Research Support Award Received funding award
