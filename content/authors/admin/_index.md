@@ -33,7 +33,7 @@ education:
   courses:
   - course: MRes/PhD in (Social) Anthropology
     institution:  London School of Economics
-    year: exp 2024
+    year: exp 2025
   - course: MSc in Social Anthropology
     institution:  London School of Economics 
     year: 2019  
