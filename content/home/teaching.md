@@ -22,8 +22,8 @@ weight = 120
 - IR115 Globalisation and Culture: Summer School 2023. Teaching Evaluation 4.81/5.
 ## Co-convener, Summer Seminar Series
 - Digesting David Graeber’s Sacrifice Syllabus: A postgraduate and professional seminar series
-on sacrifice, exploring classic conceptions of sacrifice to modern takes (e.g. sacrifice zones)
-that speak to questions of envirnonmental policy, human-non-human value, and future-making. (Summer Term 2023)
+on sacrifice, exploring classic conceptions of sacrifice to modern takes (e.g. sacrifice zones),
+that speaks to questions of envirnonmental policy, human-non-human relations, and future-making. (Summer Term 2023)
 
 ### IE University 
 ## Lecturer
