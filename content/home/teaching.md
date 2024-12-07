@@ -23,7 +23,7 @@ weight = 120
 ## Co-convener, Summer Seminar Series
 - Digesting David Graeber’s Sacrifice Syllabus: A postgraduate and professional seminar series
 on sacrifice, exploring classic conceptions of sacrifice to modern takes (e.g. sacrifice zones)
-that speak to questions of envirnonmental policy, human value, and future-making. (Summer 2023)
+that speak to questions of envirnonmental policy, (non)human values, and future-making. (Summer 2023)
 
 ### IE University 
 ## Lecturer
