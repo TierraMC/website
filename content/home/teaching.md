@@ -17,7 +17,7 @@ weight = 120
 
 ### London School of Economics 
 ## Postgraduate Teaching Assistant
-- AN283 (Anthropology, Art, and Poetics): Winter 2024. Teaching Evaluation (4.5/5)
+- AN283 (Anthropology, Art, and Poetics): Winter 2024. Teaching Evaluation (4.4/5)
 - AN100 (Being Human: Introduction to Social Anthroplogy): Winter 2023. Teaching Evaluation (4.67/5)
 - IR115 (Globalisation and Culture): Summer School 2023. Teaching Evaluation (4.81/5)
 
