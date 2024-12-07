@@ -23,9 +23,9 @@ weight = 120
 ## Co-convener, Summer Seminar Series
 - Digesting David Graeber’s Sacrifice Syllabus: A postgraduate and professional seminar series
 on sacrifice, exploring classic conceptions of sacrifice to modern takes (e.g. sacrifice zones)
-that speak to questions of envirnonmental policy, human value, and future-making. (Summer 2023)
+that speak to questions of envirnonmental policy, human-non-human value, and future-making. (Summer 2023)
 
 ### IE University 
 ## Lecturer
-- Anthropological Approaches to Contemporary Worlds: Spring 2024. Teaching Evaluation (4.78/5)
-- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation (4.64/5)
+- Anthropological Approaches to Contemporary Worlds: Spring Term 2024. Teaching Evaluation 4.78/5.
+- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation 4.64/5.
