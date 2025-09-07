@@ -14,7 +14,6 @@ title = "Teaching"
 weight = 120
 
 +++
-
 ### IE University 
 ## Lecturer
 - Anthropological Approaches to Contemporary Worlds: Spring Term 2024. Teaching Evaluation 4.78/5.
