@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Tierra McMahon</title>
-    <link>https://tierramcmahon.com/publication/</link>
-      <atom:link href="https://tierramcmahon.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/publication/</link>
+      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://tierramcmahon.com/images/logo_hu3549968246905332158.png</url>
+      <url>http://localhost:4321/images/logo_hu3549968246905332158.png</url>
       <title>Publications</title>
-      <link>https://tierramcmahon.com/publication/</link>
+      <link>http://localhost:4321/publication/</link>
     </image>
     
   </channel>

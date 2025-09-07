@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tierramcmahon.com/privacy/</loc>
+    <loc>http://localhost:4321/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://tierramcmahon.com/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://tierramcmahon.com/authors/</loc>
+    <loc>http://localhost:4321/authors/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/research-interests/</loc>
+    <loc>http://localhost:4321/research-interests/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
   </url><url>
-    <loc>https://tierramcmahon.com/author/tierra-mcmahon/</loc>
+    <loc>http://localhost:4321/author/tierra-mcmahon/</loc>
   </url>
 </urlset>

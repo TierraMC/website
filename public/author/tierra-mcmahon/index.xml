@@ -2,25 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tierra McMahon</title>
-    <link>https://tierramcmahon.com/author/tierra-mcmahon/</link>
-      <atom:link href="https://tierramcmahon.com/author/tierra-mcmahon/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/author/tierra-mcmahon/</link>
+      <atom:link href="http://localhost:4321/author/tierra-mcmahon/index.xml" rel="self" type="application/rss+xml" />
     <description>Tierra McMahon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://tierramcmahon.com/images/logo_hu3549968246905332158.png</url>
+      <url>http://localhost:4321/images/logo_hu3549968246905332158.png</url>
       <title>Tierra McMahon</title>
-      <link>https://tierramcmahon.com/author/tierra-mcmahon/</link>
+      <link>http://localhost:4321/author/tierra-mcmahon/</link>
     </image>
-    
-    <item>
-      <title>Tierra McMahon</title>
-      <link>https://tierramcmahon.com/author/tierra-mcmahon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tierramcmahon.com/author/tierra-mcmahon/</guid>
-      <description>&lt;p&gt;I am an Assistant Professor of Social Anthropology at IE University.&lt;/p&gt;
-&lt;p&gt;My current research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

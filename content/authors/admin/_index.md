@@ -3,9 +3,6 @@
 # Display name
 title: Tierra McMahon
 
-# Username (this should match the folder name)
-authors:
-- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,8 +12,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
-  url: "https://www.lse.ac.uk/"
+- name: IE University
+  url: "https://www.ie.edu/university/about/faculty/tierra-mcmahon/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a researcher at the London School of Economics and Political Science (LSE). My research examines the enduring political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
@@ -33,7 +30,7 @@ education:
   courses:
   - course: MRes/PhD in (Social) Anthropology
     institution:  London School of Economics
-    year: exp 2025
+    year: 2025
   - course: MSc in Social Anthropology
     institution:  London School of Economics 
     year: 2019  
@@ -55,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:t.mcmahon@lse.ac.uk
+  link: mailto:tierra.mcmahon@ie.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
@@ -82,6 +79,6 @@ email: ""
 #- Visitors
 
 ---
-I am an Assistant Professor of Social Anthropology at IE University.
+I am an Assistant Professor of Socio-Cultural Anthropology at IE University.
 
 My current research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
