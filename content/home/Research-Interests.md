@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = "2"
-    author = ""
+    author = "admin"
     exclude_featured = false
   
 [design]

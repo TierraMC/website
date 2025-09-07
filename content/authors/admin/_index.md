@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -82,6 +82,6 @@ email: ""
 #- Visitors
 
 ---
-I am a researcher at the London School of Economics and Political Science (LSE).
+I am an Assistant Professor of Social Anthropology at IE University.
 
 My current research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 

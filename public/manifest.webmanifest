@@ -1,15 +1,15 @@
 {
-  "name": "Ghassane Benmir",
-  "short_name": "Ghassane Benmir",
+  "name": "Tierra McMahon",
+  "short_name": "Tierra McMahon",
   "lang": "en-us",
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png",
+    "src": "/images/icon_hu1896836422864758634.PNG",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png",
+    "src": "/images/icon_hu6584031709111543339.PNG",
     "sizes": "512x512",
     "type": "image/png"
      }],
