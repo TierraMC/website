@@ -15,6 +15,11 @@ weight = 120
 
 +++
 
+### IE University 
+## Lecturer
+- Anthropological Approaches to Contemporary Worlds: Spring Term 2024. Teaching Evaluation 4.78/5.
+- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation 4.64/5.
+
 ### London School of Economics 
 ## Postgraduate Teaching Assistant
 - AN283 Anthropology, Art, and Poetics: Winter 2024. Teaching Evaluation 4.4/5.
@@ -25,7 +30,3 @@ weight = 120
 on sacrifice exploring classic conceptions of sacrifice to modern takes (e.g. sacrifice zones)
 that speaks to questions of envirnonmental policy, human-non-human relations, and future-making. (Summer Term 2023)
 
-### IE University 
-## Lecturer
-- Anthropological Approaches to Contemporary Worlds: Spring Term 2024. Teaching Evaluation 4.78/5.
-- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation 4.64/5.
