@@ -16,8 +16,10 @@ weight = 120
 +++
 ### IE University 
 ## Lecturer
-- Anthropological Approaches to Contemporary Worlds: Spring Term 2024. Teaching Evaluation 4.78/5.
-- Advanced Research and Writing Skills: Autumn Term 2023. Teaching Evaluation 4.64/5.
+- Ethnography (Spring Term 2026)
+- Culture and Society: Fundamentals of Anthropology (Autumn Term 2025)
+- Anthropological Approaches to Contemporary Worlds (Spring Term 2024, 2026). Teaching Evaluation 4.78/5.
+- Advanced Research and Writing Skills (Autumn Term 2023). Teaching Evaluation 4.64/5.
 
 ### London School of Economics 
 ## Postgraduate Teaching Assistant

@@ -14,6 +14,8 @@ title = "Selected Awards"
 weight = 130
 
 +++
+- Firth Award for Best Paper of the Year 2025
+- Award in recognition of providing exceptional pastoral care, 2024-2025, London School of Economics
 - Recipient of the Rosemary and Raymond Firth Award (2024-2025), Department of Anthropology, London School of Economics. 
 - Nomination for Outstanding Teaching Award during the 2023-2024 academic year, LSESU, London School of Economics.
 - Award in recognition of providing exceptional pastoral care, 2023-2024, London School of Economics
