@@ -81,4 +81,4 @@ email: ""
 ---
 I am an Assistant Professor of Socio-Cultural Anthropology at IE University.
 
-My current research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. 
+My current research examines the political economy of modernity in Morocco with attention to how modernity narratives are employed to justify or change social/cultural practices. I am particularly interested in how cultural evolutionary theories persist in contemporary contexts and shape ritual practice.
