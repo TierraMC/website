@@ -79,7 +79,7 @@ email: ""
 #- Visitors
 
 ---
-Hello and Welcome! Thank you for visiting this space. Please note it is currently under (re)construction and will be updated shortly in content and form. 
+Thank you for visiting this space. Please note it is currently under (re)construction and will be updated shortly in content and form. 
 
 I am an Assistant Professor of (Socio-Cultural) Anthropology at IE University in Spain. I have dedicated myself professionally to anthropology and also have previous training in Economics, International Relations, and Philosophy across four continents. Previously, I worked as an Economist and Policy Analyst at the OECD in Paris and served at UNESCO under the aegis of the Post-2015 Sustainable Development Goals Agenda. These professional experiences and my educational trajectory have greatly impacted my understanding of key features of knowledge production and world-making on a global scale, which she seeks to bring to my anthropological research and teaching.
 
