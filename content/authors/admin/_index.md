@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: MRes/PhD in (Social) Anthropology
+  - course: PhD/MRes in (Social) Anthropology
     institution:  London School of Economics
-    year: 2021/~2025
+    year: ~2025
   - course: MSc in Social Anthropology
     institution:  London School of Economics 
     year: 2019  
